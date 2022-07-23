@@ -8,3 +8,4 @@ Googleスプレッドシート上で定型文と変数定義を合成した文�
 3. setup()関数を実行
 4. BodyTextシート，Variableシートに情報を記入
 5. createFixedPhrase()関数を実行
+6. ResultシートのA2セルに結果が出力される
