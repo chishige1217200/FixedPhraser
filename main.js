@@ -39,7 +39,7 @@ function setup() {
     scriptSheet.getRange(3, 2).setValue('https://github.com/chishige1217200/FixedPhraserGAS');
   }
 
-  console.log('Setup Complete.');
+  console.log('BodyTextシートとVariableシートを記入してください．');
 }
 
 function createFixedPhrase() {
