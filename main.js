@@ -93,4 +93,6 @@ function createFixedPhrase() {
 
   resultSheet.getRange(2, 1).setValue(fixedPhrase);
   resultSheet.autoResizeRows(2, 1);
+
+  console.log('Resultシートに文章を出力しました．');
 }
